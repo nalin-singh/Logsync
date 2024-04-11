@@ -1,0 +1,14 @@
+{
+	"name": "Logsync",
+	"version": "1.0.0",
+	"description": "A Generative AI  service in the field of manufacturing and inventory",
+	"repository": "git@github.com:nalin-singh/Logsync.git",
+	"author": "Nalin Singh <nalinsingh20@gmail.com>",
+	"license": "UNLICENSED",
+	"devDependencies": {
+		"husky": "^9.0.11"
+	},
+	"scripts": {
+		"prepare": "husky"
+	}
+}
