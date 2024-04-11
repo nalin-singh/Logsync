@@ -6,6 +6,7 @@
 
 1. Package Manager [Poetry](https://python-poetry.org/)
 2. API Server [FastAPI](https://fastapi.tiangolo.com/),
+3. Formatter [Black](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
 
 ### Setup - Server
 

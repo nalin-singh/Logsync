@@ -1,7 +1,15 @@
+"""
+LogSync AI Server 
+"""
+
 from fastapi import FastAPI
 
 app = FastAPI()
 
+
 @app.get("/")
-def read_root():
-    return {"Hello": "World"}
+async def check() -> dict:
+    """
+    Health Check API
+    """
+    return {"Message": "Server is up and running!"}
