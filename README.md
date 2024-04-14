@@ -11,8 +11,8 @@
 ### Setup - Server
 
 - Install Poetry `pip install poetry`
+- Activate Environment `poetry shell` & make sure the created Virtual Environment as the Python Interpretor
 - Install Project Dependencies using `poetry install`
-- Activate Environment `poetry shell`
 - Deactivate Environment `exit`
 
 ## LogSync AI - Client
