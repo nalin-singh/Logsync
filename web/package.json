@@ -24,10 +24,10 @@
     "lint-staged": {
         "**/*.{ts,tsx}": [
             "yarn lint",
-            "yarn prettier --write"
+            "yarn prettier --write ."
         ],
         "**/*.{js,json}": [
-            "yarn prettier --write"
+            "yarn prettier --write ."
         ]
     },
     "dependencies": {
