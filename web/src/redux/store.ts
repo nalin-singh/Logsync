@@ -1,7 +1,10 @@
 import { logger } from 'redux-logger';
 import { configureStore, combineReducers } from '@reduxjs/toolkit';
+import ThemeReducer from './features/themeSlice';
 
-const rootReducer = combineReducers({});
+const rootReducer = combineReducers({
+    theme: ThemeReducer
+});
 
 export const store = configureStore({
     reducer: rootReducer,

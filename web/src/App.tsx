@@ -6,11 +6,12 @@ import { Dashboard } from './pages/dashboard';
 export const appRouter = createBrowserRouter([
     {
         path: '/',
+
         element: <Application />,
         errorElement: <Error404 />,
         children: [
             {
-                path: '/dashboard',
+                path: '/*',
                 element: <Dashboard />
             }
         ]
