@@ -1,0 +1,497 @@
+[
+    {
+        "Part No.":503812,
+        "Part Name":"Lithium-ion Cells",
+        "Vendor Name":"PowerCell Inc.",
+        "Vendor Code":"PWRCL001",
+        "Cost":35,
+        "Unit":"cell",
+        "Lead Time (days)":3
+    },
+    {
+        "Part No.":503812,
+        "Part Name":"Lithium-ion Cells",
+        "Vendor Name":"CellTech Supplies",
+        "Vendor Code":"CLLTC002",
+        "Cost":30,
+        "Unit":"cell",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":509234,
+        "Part Name":"Aluminum Casing",
+        "Vendor Name":"MetalCraft Corp.",
+        "Vendor Code":"MTLCR003",
+        "Cost":10,
+        "Unit":"kg",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":509234,
+        "Part Name":"Aluminum Casing",
+        "Vendor Name":"Aluminum Solutions",
+        "Vendor Code":"ALMSN004",
+        "Cost":12,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":509234,
+        "Part Name":"Aluminum Casing",
+        "Vendor Name":"Precision Metals",
+        "Vendor Code":"PRMTL005",
+        "Cost":14,
+        "Unit":"kg",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":508721,
+        "Part Name":"Nickel Cathode",
+        "Vendor Name":"ElectroTech Ltd.",
+        "Vendor Code":"ELTCT006",
+        "Cost":20,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":508721,
+        "Part Name":"Nickel Cathode",
+        "Vendor Name":"NickelTech Inc.",
+        "Vendor Code":"NKLTC007",
+        "Cost":22,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":506912,
+        "Part Name":"Cobalt Oxide",
+        "Vendor Name":"ChemX Supplies",
+        "Vendor Code":"CHMX008",
+        "Cost":28,
+        "Unit":"kg",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":506912,
+        "Part Name":"Cobalt Oxide",
+        "Vendor Name":"CobaltTech Inc.",
+        "Vendor Code":"CBLTC009",
+        "Cost":30,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":504367,
+        "Part Name":"Copper Foil",
+        "Vendor Name":"ConductorCo",
+        "Vendor Code":"CNCDC010",
+        "Cost":15,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":504367,
+        "Part Name":"Copper Foil",
+        "Vendor Name":"CopperTech Ltd.",
+        "Vendor Code":"CPTLT011",
+        "Cost":18,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":507843,
+        "Part Name":"Lithium Polymer Cells",
+        "Vendor Name":"EnergyTech Inc.",
+        "Vendor Code":"EGNTC012",
+        "Cost":25,
+        "Unit":"cell",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":507843,
+        "Part Name":"Lithium Polymer Cells",
+        "Vendor Name":"PolymerPower Ltd.",
+        "Vendor Code":"PLYRP013",
+        "Cost":28,
+        "Unit":"cell",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":501298,
+        "Part Name":"Plastic Casing",
+        "Vendor Name":"PlastiTech Ltd.",
+        "Vendor Code":"PLSTT014",
+        "Cost":6,
+        "Unit":"kg",
+        "Lead Time (days)":9
+    },
+    {
+        "Part No.":501298,
+        "Part Name":"Plastic Casing",
+        "Vendor Name":"PolymerSolutions",
+        "Vendor Code":"PLMSL015",
+        "Cost":8,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":502134,
+        "Part Name":"PCB",
+        "Vendor Name":"CircuitMasters",
+        "Vendor Code":"CRCTM016",
+        "Cost":10,
+        "Unit":"unit",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":502134,
+        "Part Name":"PCB",
+        "Vendor Name":"TechCircuits Inc.",
+        "Vendor Code":"TCRCT017",
+        "Cost":12,
+        "Unit":"unit",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":504782,
+        "Part Name":"USB Ports",
+        "Vendor Name":"ConnectorSolutions",
+        "Vendor Code":"CNSLT018",
+        "Cost":2,
+        "Unit":"unit",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":504782,
+        "Part Name":"USB Ports",
+        "Vendor Name":"PortMaster Inc.",
+        "Vendor Code":"PRTRM019",
+        "Cost":3,
+        "Unit":"unit",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":501467,
+        "Part Name":"Copper Wire",
+        "Vendor Name":"WireMasters Ltd.",
+        "Vendor Code":"WRMST020",
+        "Cost":12,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":501467,
+        "Part Name":"Copper Wire",
+        "Vendor Name":"WireTech Inc.",
+        "Vendor Code":"WRTCH021",
+        "Cost":15,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":506759,
+        "Part Name":"LiFePO4 Cells",
+        "Vendor Name":"PowerCell Inc.",
+        "Vendor Code":"PWRCL022",
+        "Cost":40,
+        "Unit":"cell",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":506759,
+        "Part Name":"LiFePO4 Cells",
+        "Vendor Name":"LiFeTech Solutions",
+        "Vendor Code":"LFCHS023",
+        "Cost":38,
+        "Unit":"cell",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":503129,
+        "Part Name":"Steel Casing",
+        "Vendor Name":"MetalCraft Corp.",
+        "Vendor Code":"MTLCR024",
+        "Cost":16,
+        "Unit":"kg",
+        "Lead Time (days)":9
+    },
+    {
+        "Part No.":503129,
+        "Part Name":"Steel Casing",
+        "Vendor Name":"SteelTech Inc.",
+        "Vendor Code":"STLTC025",
+        "Cost":18,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":507423,
+        "Part Name":"Aluminum Cathode",
+        "Vendor Name":"ElectroTech Ltd.",
+        "Vendor Code":"ELTCT026",
+        "Cost":28,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":507423,
+        "Part Name":"Aluminum Cathode",
+        "Vendor Name":"Aluminum Solutions",
+        "Vendor Code":"ALMSN027",
+        "Cost":30,
+        "Unit":"kg",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":508765,
+        "Part Name":"Graphite Anode",
+        "Vendor Name":"CarbonWorks Inc.",
+        "Vendor Code":"CRBNW028",
+        "Cost":30,
+        "Unit":"kg",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":508765,
+        "Part Name":"Graphite Anode",
+        "Vendor Name":"GraphiteTech Ltd.",
+        "Vendor Code":"GRTCL029",
+        "Cost":28,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":502189,
+        "Part Name":"Nickel Connector",
+        "Vendor Name":"ElectroTech Ltd.",
+        "Vendor Code":"ELTCT030",
+        "Cost":15,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":502189,
+        "Part Name":"Nickel Connector",
+        "Vendor Name":"ConnectorTech Inc.",
+        "Vendor Code":"CNTCT031",
+        "Cost":18,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":503854,
+        "Part Name":"Lead Plates",
+        "Vendor Name":"BatterySupplies",
+        "Vendor Code":"BTSPS032",
+        "Cost":18,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":503854,
+        "Part Name":"Lead Plates",
+        "Vendor Name":"LeadTech Corp.",
+        "Vendor Code":"LDTCR033",
+        "Cost":20,
+        "Unit":"kg",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":505921,
+        "Part Name":"Sulfuric Acid",
+        "Vendor Name":"ChemX Supplies",
+        "Vendor Code":"CHMX034",
+        "Cost":5,
+        "Unit":"liter",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":505921,
+        "Part Name":"Sulfuric Acid",
+        "Vendor Name":"AcidTech Inc.",
+        "Vendor Code":"ACDTC035",
+        "Cost":6,
+        "Unit":"liter",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":504687,
+        "Part Name":"Electrolyte Solution",
+        "Vendor Name":"ChemX Supplies",
+        "Vendor Code":"CHMX036",
+        "Cost":3,
+        "Unit":"liter",
+        "Lead Time (days)":9
+    },
+    {
+        "Part No.":504687,
+        "Part Name":"Electrolyte Solution",
+        "Vendor Name":"ElectrolyteMasters",
+        "Vendor Code":"ELMSL037",
+        "Cost":5,
+        "Unit":"liter",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":507821,
+        "Part Name":"Copper Connectors",
+        "Vendor Name":"ConnectorSolutions",
+        "Vendor Code":"CNSLT038",
+        "Cost":16,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":507821,
+        "Part Name":"Copper Connectors",
+        "Vendor Name":"CopperTech Ltd.",
+        "Vendor Code":"CPTLT039",
+        "Cost":20,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":509127,
+        "Part Name":"NCA Cathode",
+        "Vendor Name":"EnergyTech Inc.",
+        "Vendor Code":"EGNTC040",
+        "Cost":32,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":509127,
+        "Part Name":"NCA Cathode",
+        "Vendor Name":"CathodeSolutions",
+        "Vendor Code":"CTDCS041",
+        "Cost":34,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":503412,
+        "Part Name":"Fiberglass Casing",
+        "Vendor Name":"PlastiTech Ltd.",
+        "Vendor Code":"PLSTT042",
+        "Cost":8,
+        "Unit":"kg",
+        "Lead Time (days)":9
+    },
+    {
+        "Part No.":503412,
+        "Part Name":"Fiberglass Casing",
+        "Vendor Name":"FiberWorks Corp.",
+        "Vendor Code":"FBRWK043",
+        "Cost":10,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":508746,
+        "Part Name":"Aluminum Heat Sink",
+        "Vendor Name":"HeatMaster Inc.",
+        "Vendor Code":"HTMST046",
+        "Cost":20,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":508746,
+        "Part Name":"Aluminum Heat Sink",
+        "Vendor Name":"AluminumTech Ltd.",
+        "Vendor Code":"ALMNC047",
+        "Cost":22,
+        "Unit":"kg",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":501953,
+        "Part Name":"NiMH Cells",
+        "Vendor Name":"PowerCell Inc.",
+        "Vendor Code":"PWRCL048",
+        "Cost":35,
+        "Unit":"cell",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":501953,
+        "Part Name":"NiMH Cells",
+        "Vendor Name":"NiMHTech Inc.",
+        "Vendor Code":"NMHTC049",
+        "Cost":38,
+        "Unit":"cell",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":506731,
+        "Part Name":"Hydrogen Absorbent Alloy",
+        "Vendor Name":"HydroTech Inc.",
+        "Vendor Code":"HYDTC050",
+        "Cost":25,
+        "Unit":"kg",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":506731,
+        "Part Name":"Hydrogen Absorbent Alloy",
+        "Vendor Name":"HydroSolutions",
+        "Vendor Code":"HDSLS051",
+        "Cost":28,
+        "Unit":"kg",
+        "Lead Time (days)":4
+    },
+    {
+        "Part No.":509638,
+        "Part Name":"NCM Cathode",
+        "Vendor Name":"EnergyTech Inc.",
+        "Vendor Code":"EGNTC052",
+        "Cost":38,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    },
+    {
+        "Part No.":509638,
+        "Part Name":"NCM Cathode",
+        "Vendor Name":"NCM Supplies",
+        "Vendor Code":"NCMSL053",
+        "Cost":40,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":503421,
+        "Part Name":"NiCd Cells",
+        "Vendor Name":"PowerCell Inc.",
+        "Vendor Code":"PWRCL054",
+        "Cost":20,
+        "Unit":"cell",
+        "Lead Time (days)":6
+    },
+    {
+        "Part No.":503421,
+        "Part Name":"NiCd Cells",
+        "Vendor Name":"NiCdTech Solutions",
+        "Vendor Code":"NCDTS055",
+        "Cost":22,
+        "Unit":"cell",
+        "Lead Time (days)":8
+    },
+    {
+        "Part No.":504965,
+        "Part Name":"Cadmium Anode",
+        "Vendor Name":"ChemX Supplies",
+        "Vendor Code":"CHMX056",
+        "Cost":14,
+        "Unit":"kg",
+        "Lead Time (days)":7
+    },
+    {
+        "Part No.":504965,
+        "Part Name":"Cadmium Anode",
+        "Vendor Name":"CadmiumTech Ltd.",
+        "Vendor Code":"CDMTC057",
+        "Cost":16,
+        "Unit":"kg",
+        "Lead Time (days)":5
+    }
+]
