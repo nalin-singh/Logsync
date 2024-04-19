@@ -1,0 +1,272 @@
+[
+    {
+        "contract_number":5241,
+        "contract_type":"Sales",
+        "signed_date":"2024-12-01T00:00:00.000",
+        "onboarded_on":"2024-02-20T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2026-12-01T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Gizmo Electronics",
+        "total_qty":{
+            "807912":500,
+            "805234":400
+        },
+        "per_order_qty":{
+            "807912":10,
+            "805234":15
+        },
+        "min_order_qty":{
+            "807912":5,
+            "805234":10
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":100,
+        "ship_to":"100 Consumer Rd, Retail City, Shoppington, 23456, USA",
+        "invoice_to":"100 Consumer Rd, Retail City, Shoppington, 23456, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5242,
+        "contract_type":"Sales",
+        "signed_date":"2023-02-20T00:00:00.000",
+        "onboarded_on":"2023-10-02T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-02-20T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"New Electronics Inc.",
+        "total_qty":{
+            "801236":450,
+            "802985":350
+        },
+        "per_order_qty":{
+            "801236":8,
+            "802985":12
+        },
+        "min_order_qty":{
+            "801236":4,
+            "802985":8
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":98,
+        "ship_to":"500 Main St, Tech Hub, Innoville, 54321, USA",
+        "invoice_to":"500 Main St, Tech Hub, Innoville, 54321, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5243,
+        "contract_type":"Sales",
+        "signed_date":"2022-05-03T00:00:00.000",
+        "onboarded_on":"2022-04-15T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-05-03T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Bright Ideas Corp.",
+        "total_qty":{
+            "803490":600,
+            "803761":300
+        },
+        "per_order_qty":{
+            "803490":12,
+            "803761":10
+        },
+        "min_order_qty":{
+            "803490":6,
+            "803761":5
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":99,
+        "ship_to":"200 Energy Blvd, Innovation Center, Powerstate, 34567, USA",
+        "invoice_to":"200 Energy Blvd, Innovation Center, Powerstate, 34567, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5244,
+        "contract_type":"Sales",
+        "signed_date":"2022-03-15T00:00:00.000",
+        "onboarded_on":"2022-04-25T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-03-15T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Volt Solutions Inc.",
+        "total_qty":{
+            "803761":550,
+            "804567":200
+        },
+        "per_order_qty":{
+            "803761":11,
+            "804567":8
+        },
+        "min_order_qty":{
+            "803761":5,
+            "804567":4
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":97,
+        "ship_to":"300 Power Ave, Energy Village, Electroncity, 78901, USA",
+        "invoice_to":"300 Power Ave, Energy Village, Electroncity, 78901, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5245,
+        "contract_type":"Sales",
+        "signed_date":"2023-03-25T00:00:00.000",
+        "onboarded_on":"2023-05-05T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-03-25T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Green Tech Corp.",
+        "total_qty":{
+            "805198":700,
+            "805234":450
+        },
+        "per_order_qty":{
+            "805198":14,
+            "805234":15
+        },
+        "min_order_qty":{
+            "805198":7,
+            "805234":8
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":96,
+        "ship_to":"400 Electric Dr, Power Plaza, Ampcity, 23456, USA",
+        "invoice_to":"400 Electric Dr, Power Plaza, Ampcity, 23456, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5246,
+        "contract_type":"Sales",
+        "signed_date":"2023-10-04T00:00:00.000",
+        "onboarded_on":"2023-05-20T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2026-10-04T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Energy Systems Ltd.",
+        "total_qty":{
+            "806754":400,
+            "807912":350
+        },
+        "per_order_qty":{
+            "806754":8,
+            "807912":10
+        },
+        "min_order_qty":{
+            "806754":4,
+            "807912":5
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":98,
+        "ship_to":"300 Battery Blvd, Energy Park, Powercity, 34567, USA",
+        "invoice_to":"300 Battery Blvd, Energy Park, Powercity, 34567, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5247,
+        "contract_type":"Sales",
+        "signed_date":"2022-04-20T00:00:00.000",
+        "onboarded_on":"2022-05-30T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-04-20T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"ElectroTech Inc.",
+        "total_qty":{
+            "804289":600,
+            "809365":250
+        },
+        "per_order_qty":{
+            "804289":12,
+            "809365":8
+        },
+        "min_order_qty":{
+            "804289":6,
+            "809365":4
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":97,
+        "ship_to":"200 Power Dr, Volt Center, Electropolis, 45678, USA",
+        "invoice_to":"200 Power Dr, Volt Center, Electropolis, 45678, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5248,
+        "contract_type":"Sales",
+        "signed_date":"2023-05-05T00:00:00.000",
+        "onboarded_on":"2023-06-15T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2026-05-05T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"PowerTech Solutions",
+        "total_qty":{
+            "806123":750,
+            "802985":400
+        },
+        "per_order_qty":{
+            "806123":15,
+            "802985":10
+        },
+        "min_order_qty":{
+            "806123":7,
+            "802985":5
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":96,
+        "ship_to":"400 Battery Ave, Power District, Cellville, 56789, USA",
+        "invoice_to":"400 Battery Ave, Power District, Cellville, 56789, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5249,
+        "contract_type":"Sales",
+        "signed_date":"2022-05-15T00:00:00.000",
+        "onboarded_on":"2022-06-25T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2025-05-15T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"Current Tech Inc.",
+        "total_qty":{
+            "802563":500,
+            "801348":350
+        },
+        "per_order_qty":{
+            "802563":10,
+            "801348":8
+        },
+        "min_order_qty":{
+            "802563":5,
+            "801348":4
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":97,
+        "ship_to":"300 Current Ave, Energy Zone, Powerville, 67890, USA",
+        "invoice_to":"300 Current Ave, Energy Zone, Powerville, 67890, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    },
+    {
+        "contract_number":5250,
+        "contract_type":"Sales",
+        "signed_date":"2023-05-25T00:00:00.000",
+        "onboarded_on":"2023-05-07T00:00:00.000",
+        "valid_till":2,
+        "expiry_date":"2026-05-25T00:00:00.000",
+        "seller_name":"Battery Manufacturing Inc.",
+        "customer_name":"PowerCell Inc.",
+        "total_qty":{
+            "809874":800,
+            "808765":500
+        },
+        "per_order_qty":{
+            "809874":16,
+            "808765":10
+        },
+        "min_order_qty":{
+            "809874":8,
+            "808765":5
+        },
+        "frequency":"Weekly",
+        "penalty_threshold":95,
+        "ship_to":"500 Battery Rd, Power Land, Currentcity, 23456, USA",
+        "invoice_to":"500 Battery Rd, Power Land, Currentcity, 23456, USA",
+        "ship_from":"500 Energy Way, Innovation City, Techstate, 12345, USA"
+    }
+]

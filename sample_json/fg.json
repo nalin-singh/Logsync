@@ -1,0 +1,192 @@
+[
+    {
+        "FG Number":801236,
+        "FG Name":"Electric Scooter Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":15,
+        "Inspection Time (hours)":5,
+        "Total Time":20,
+        "Margin Percentage (%)":30,
+        "Cost ($)":200
+    },
+    {
+        "FG Number":801348,
+        "FG Name":"Electric Motorcycle Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":9,
+        "Inspection Time (hours)":4,
+        "Total Time":13,
+        "Margin Percentage (%)":25,
+        "Cost ($)":650
+    },
+    {
+        "FG Number":801947,
+        "FG Name":"Electric Drill Battery",
+        "FG Battery Type":"Nickel Cadmium (NiCd)",
+        "Production Time (hours)":15,
+        "Inspection Time (hours)":5,
+        "Total Time":20,
+        "Margin Percentage (%)":20,
+        "Cost ($)":170
+    },
+    {
+        "FG Number":802563,
+        "FG Name":"Electric Guitar Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":19,
+        "Inspection Time (hours)":5,
+        "Total Time":24,
+        "Margin Percentage (%)":25,
+        "Cost ($)":220
+    },
+    {
+        "FG Number":802985,
+        "FG Name":"Electric Boat Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":17,
+        "Inspection Time (hours)":5,
+        "Total Time":22,
+        "Margin Percentage (%)":30,
+        "Cost ($)":450
+    },
+    {
+        "FG Number":803490,
+        "FG Name":"Electric Bicycle Battery",
+        "FG Battery Type":"Lithium Iron Phosphate (LiFePO4)",
+        "Production Time (hours)":21,
+        "Inspection Time (hours)":6,
+        "Total Time":27,
+        "Margin Percentage (%)":35,
+        "Cost ($)":250
+    },
+    {
+        "FG Number":803761,
+        "FG Name":"Portable Generator Battery",
+        "FG Battery Type":"Lead Acid",
+        "Production Time (hours)":9,
+        "Inspection Time (hours)":4,
+        "Total Time":13,
+        "Margin Percentage (%)":25,
+        "Cost ($)":180
+    },
+    {
+        "FG Number":804289,
+        "FG Name":"Drone Battery",
+        "FG Battery Type":"Lithium Polymer",
+        "Production Time (hours)":19,
+        "Inspection Time (hours)":5,
+        "Total Time":24,
+        "Margin Percentage (%)":40,
+        "Cost ($)":180
+    },
+    {
+        "FG Number":804567,
+        "FG Name":"Electric Mixer Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":19,
+        "Inspection Time (hours)":5,
+        "Total Time":24,
+        "Margin Percentage (%)":30,
+        "Cost ($)":320
+    },
+    {
+        "FG Number":805198,
+        "FG Name":"Electric Car Battery Pack",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":18,
+        "Inspection Time (hours)":6,
+        "Total Time":24,
+        "Margin Percentage (%)":25,
+        "Cost ($)":500
+    },
+    {
+        "FG Number":805234,
+        "FG Name":"Electric Skateboard Battery",
+        "FG Battery Type":"Lithium Polymer",
+        "Production Time (hours)":12,
+        "Inspection Time (hours)":5,
+        "Total Time":17,
+        "Margin Percentage (%)":35,
+        "Cost ($)":220
+    },
+    {
+        "FG Number":806123,
+        "FG Name":"Electric Lawn Mower Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":20,
+        "Inspection Time (hours)":6,
+        "Total Time":26,
+        "Margin Percentage (%)":25,
+        "Cost ($)":300
+    },
+    {
+        "FG Number":806754,
+        "FG Name":"Uninterruptible Power Supply (UPS) Battery",
+        "FG Battery Type":"Sealed Lead Acid",
+        "Production Time (hours)":14,
+        "Inspection Time (hours)":4,
+        "Total Time":18,
+        "Margin Percentage (%)":20,
+        "Cost ($)":200
+    },
+    {
+        "FG Number":807543,
+        "FG Name":"Solar Power Storage Battery",
+        "FG Battery Type":"Lithium Iron Phosphate (LiFePO4)",
+        "Production Time (hours)":16,
+        "Inspection Time (hours)":5,
+        "Total Time":21,
+        "Margin Percentage (%)":30,
+        "Cost ($)":300
+    },
+    {
+        "FG Number":807912,
+        "FG Name":"Power Bank",
+        "FG Battery Type":"Lithium Polymer",
+        "Production Time (hours)":10,
+        "Inspection Time (hours)":4,
+        "Total Time":14,
+        "Margin Percentage (%)":40,
+        "Cost ($)":150
+    },
+    {
+        "FG Number":808321,
+        "FG Name":"Electric Fan Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":11,
+        "Inspection Time (hours)":4,
+        "Total Time":15,
+        "Margin Percentage (%)":35,
+        "Cost ($)":250
+    },
+    {
+        "FG Number":808765,
+        "FG Name":"Electric Heater Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":11,
+        "Inspection Time (hours)":4,
+        "Total Time":15,
+        "Margin Percentage (%)":35,
+        "Cost ($)":380
+    },
+    {
+        "FG Number":809365,
+        "FG Name":"Electric Wheelchair Battery",
+        "FG Battery Type":"Nickel Metal Hydride (NiMH)",
+        "Production Time (hours)":8,
+        "Inspection Time (hours)":4,
+        "Total Time":12,
+        "Margin Percentage (%)":30,
+        "Cost ($)":220
+    },
+    {
+        "FG Number":809874,
+        "FG Name":"Electric Oven Battery",
+        "FG Battery Type":"Lithium-ion",
+        "Production Time (hours)":16,
+        "Inspection Time (hours)":5,
+        "Total Time":21,
+        "Margin Percentage (%)":30,
+        "Cost ($)":400
+    }
+]
