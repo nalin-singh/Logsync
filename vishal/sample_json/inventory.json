@@ -1,0 +1,370 @@
+[
+    {
+        "Part No.":801236,
+        "Total Qty":4,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":3
+    },
+    {
+        "Part No.":801348,
+        "Total Qty":17,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":16
+    },
+    {
+        "Part No.":801947,
+        "Total Qty":2,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":1
+    },
+    {
+        "Part No.":802563,
+        "Total Qty":1,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":1
+    },
+    {
+        "Part No.":802985,
+        "Total Qty":13,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":12
+    },
+    {
+        "Part No.":803490,
+        "Total Qty":12,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":12
+    },
+    {
+        "Part No.":803761,
+        "Total Qty":1,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":0
+    },
+    {
+        "Part No.":804289,
+        "Total Qty":17,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":16
+    },
+    {
+        "Part No.":804567,
+        "Total Qty":15,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":14
+    },
+    {
+        "Part No.":805198,
+        "Total Qty":23,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":23
+    },
+    {
+        "Part No.":805234,
+        "Total Qty":1,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":1
+    },
+    {
+        "Part No.":806123,
+        "Total Qty":14,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":13
+    },
+    {
+        "Part No.":806754,
+        "Total Qty":2,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":2
+    },
+    {
+        "Part No.":807543,
+        "Total Qty":9,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":8
+    },
+    {
+        "Part No.":807912,
+        "Total Qty":9,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":8
+    },
+    {
+        "Part No.":808321,
+        "Total Qty":24,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":2,
+        "Open Qty":22
+    },
+    {
+        "Part No.":808765,
+        "Total Qty":16,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":1,
+        "Open Qty":15
+    },
+    {
+        "Part No.":809365,
+        "Total Qty":21,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":21
+    },
+    {
+        "Part No.":809874,
+        "Total Qty":15,
+        "Type":"FG",
+        "In Transit (14 days) (RM)":0,
+        "Tagged Qty":0,
+        "Open Qty":15
+    },
+    {
+        "Part No.":503812,
+        "Total Qty":1969,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":3457,
+        "Tagged Qty":63,
+        "Open Qty":1906
+    },
+    {
+        "Part No.":509234,
+        "Total Qty":614,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":1330,
+        "Tagged Qty":15,
+        "Open Qty":599
+    },
+    {
+        "Part No.":508721,
+        "Total Qty":188,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":340,
+        "Tagged Qty":6,
+        "Open Qty":182
+    },
+    {
+        "Part No.":506912,
+        "Total Qty":175,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":129,
+        "Tagged Qty":13,
+        "Open Qty":162
+    },
+    {
+        "Part No.":504367,
+        "Total Qty":164,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":210,
+        "Tagged Qty":2,
+        "Open Qty":162
+    },
+    {
+        "Part No.":501298,
+        "Total Qty":84,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":190,
+        "Tagged Qty":3,
+        "Open Qty":81
+    },
+    {
+        "Part No.":502134,
+        "Total Qty":98,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":458,
+        "Tagged Qty":5,
+        "Open Qty":93
+    },
+    {
+        "Part No.":504782,
+        "Total Qty":35,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":197,
+        "Tagged Qty":3,
+        "Open Qty":32
+    },
+    {
+        "Part No.":501467,
+        "Total Qty":108,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":324,
+        "Tagged Qty":1,
+        "Open Qty":107
+    },
+    {
+        "Part No.":503421,
+        "Total Qty":2563,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":3771,
+        "Tagged Qty":97,
+        "Open Qty":2466
+    },
+    {
+        "Part No.":503129,
+        "Total Qty":341,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":1366,
+        "Tagged Qty":30,
+        "Open Qty":311
+    },
+    {
+        "Part No.":507423,
+        "Total Qty":138,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":181,
+        "Tagged Qty":6,
+        "Open Qty":132
+    },
+    {
+        "Part No.":508765,
+        "Total Qty":193,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":250,
+        "Tagged Qty":4,
+        "Open Qty":189
+    },
+    {
+        "Part No.":502189,
+        "Total Qty":193,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":265,
+        "Tagged Qty":10,
+        "Open Qty":183
+    },
+    {
+        "Part No.":505921,
+        "Total Qty":90,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":388,
+        "Tagged Qty":8,
+        "Open Qty":82
+    },
+    {
+        "Part No.":504687,
+        "Total Qty":164,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":289,
+        "Tagged Qty":11,
+        "Open Qty":153
+    },
+    {
+        "Part No.":507821,
+        "Total Qty":115,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":114,
+        "Tagged Qty":6,
+        "Open Qty":109
+    },
+    {
+        "Part No.":506759,
+        "Total Qty":1474,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":2121,
+        "Tagged Qty":137,
+        "Open Qty":1337
+    },
+    {
+        "Part No.":509127,
+        "Total Qty":227,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":684,
+        "Tagged Qty":14,
+        "Open Qty":213
+    },
+    {
+        "Part No.":503854,
+        "Total Qty":233,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":540,
+        "Tagged Qty":14,
+        "Open Qty":219
+    },
+    {
+        "Part No.":503412,
+        "Total Qty":200,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":263,
+        "Tagged Qty":11,
+        "Open Qty":189
+    },
+    {
+        "Part No.":508746,
+        "Total Qty":142,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":203,
+        "Tagged Qty":8,
+        "Open Qty":134
+    },
+    {
+        "Part No.":507843,
+        "Total Qty":1308,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":3141,
+        "Tagged Qty":74,
+        "Open Qty":1234
+    },
+    {
+        "Part No.":506731,
+        "Total Qty":168,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":346,
+        "Tagged Qty":15,
+        "Open Qty":153
+    },
+    {
+        "Part No.":509638,
+        "Total Qty":43,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":396,
+        "Tagged Qty":4,
+        "Open Qty":39
+    },
+    {
+        "Part No.":504965,
+        "Total Qty":114,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":203,
+        "Tagged Qty":11,
+        "Open Qty":103
+    },
+    {
+        "Part No.":501953,
+        "Total Qty":692,
+        "Type":"RM",
+        "In Transit (14 days) (RM)":2666,
+        "Tagged Qty":43,
+        "Open Qty":649
+    }
+]
