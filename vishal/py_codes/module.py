@@ -10,7 +10,8 @@ import ast
 import configparser
 
 config = configparser.ConfigParser()
-config.read('.ini')
+# config.read('.ini')
+config.read('config.txt')
 datasets_path = config['PATH']['datasets_path']
 product_file_name = config['PATH']['product_file_name']
 fg_sheet_name = config['PATH']['fg_sheet_name']
