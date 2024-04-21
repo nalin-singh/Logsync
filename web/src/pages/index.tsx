@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
-import { Sidebar } from '../components/sidebar';
+import { Sidebar } from '../components/molecules/sidebar';
 import { Outlet } from 'react-router-dom';
 import { selectIsDarkMode } from '../redux/features/themeSlice';
 import { useSetup } from '../hooks/useSetup';

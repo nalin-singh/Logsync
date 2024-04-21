@@ -1,4 +1,4 @@
-import { Header } from '../components/heading';
+import { Header } from '../components/atoms/heading';
 
 export const Dashboard = () => {
     return (
