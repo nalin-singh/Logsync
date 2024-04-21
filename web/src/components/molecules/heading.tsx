@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation, useSearchParams } from 'react-router-dom';
-import { Tooltip, TooltipContent, TooltipTrigger } from './tooltip';
+import { Tooltip, TooltipContent, TooltipTrigger } from '../atoms/tooltip';
 import { Bell } from 'lucide-react';
 import {
     Breadcrumb,
@@ -10,13 +10,13 @@ import {
     BreadcrumbList,
     BreadcrumbPage,
     BreadcrumbSeparator
-} from './breadcrumb';
+} from '../atoms/breadcrumb';
 import {
     DropdownMenu,
     DropdownMenuContent,
     DropdownMenuItem,
     DropdownMenuTrigger
-} from './dropdown-menu';
+} from '../atoms/dropdown-menu';
 
 export const Header: React.FC = () => {
     const location = useLocation();

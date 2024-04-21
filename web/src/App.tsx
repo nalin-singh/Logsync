@@ -7,7 +7,6 @@ import { Contract } from './pages/contract';
 export const appRouter = createBrowserRouter([
     {
         path: '/',
-
         element: <Application />,
         errorElement: <Error404 />,
         children: [
@@ -16,7 +15,7 @@ export const appRouter = createBrowserRouter([
                 element: <Dashboard />
             },
             {
-                path: '/',
+                path: '/contracts',
                 element: <Contract />
             }
         ]

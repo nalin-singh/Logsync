@@ -6,7 +6,7 @@ import { DataTableColumnHeader } from '../data-table-column-header';
 import { ContractDataTableRowActions } from '../rowActions/contractRowAction';
 import { TContract } from '../../../../types';
 
-export const columns: ColumnDef<TContract>[] = [
+export const contractColumnDef: ColumnDef<TContract>[] = [
     {
         id: 'select',
         header: ({ table }) => (
