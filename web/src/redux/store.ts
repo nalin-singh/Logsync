@@ -1,9 +1,15 @@
 import { logger } from 'redux-logger';
 import { configureStore, combineReducers } from '@reduxjs/toolkit';
 import ThemeReducer from './features/themeSlice';
+import NotificationReducer from './features/notificationSlice';
+import ContractsReducer from './features/contractSlice';
+import OrdersReducer from './features/orderSlice';
 
 const rootReducer = combineReducers({
-    theme: ThemeReducer
+    theme: ThemeReducer,
+    notification: NotificationReducer,
+    contracts: ContractsReducer,
+    orders: OrdersReducer
 });
 
 export const store = configureStore({
