@@ -23,6 +23,7 @@
         "react/react-in-jsx-scope": "off",
         "react/prop-types": "off",
         "import/no-unresolved": "off",
+        "import/named": "off",
         "no-unused-vars": [
             "error",
             {

@@ -1,0 +1,762 @@
+[
+    {
+        "FG Part No.": 801236,
+        "Finished Good": "Electric Scooter Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "20 cells"
+    },
+    {
+        "FG Part No.": 801236,
+        "Finished Good": "Electric Scooter Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509234,
+        "Raw Materials": "Aluminum Casing",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 801236,
+        "Finished Good": "Electric Scooter Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508721,
+        "Raw Materials": "Nickel Cathode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 801236,
+        "Finished Good": "Electric Scooter Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 506912,
+        "Raw Materials": "Cobalt Oxide",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 801236,
+        "Finished Good": "Electric Scooter Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 801348,
+        "Finished Good": "Electric Motorcycle Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "60 cells"
+    },
+    {
+        "FG Part No.": 801348,
+        "Finished Good": "Electric Motorcycle Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 801348,
+        "Finished Good": "Electric Motorcycle Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 502134,
+        "Raw Materials": "PCB",
+        "Quantity": 2
+    },
+    {
+        "FG Part No.": 801348,
+        "Finished Good": "Electric Motorcycle Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504782,
+        "Raw Materials": "USB Ports",
+        "Quantity": 1
+    },
+    {
+        "FG Part No.": 801348,
+        "Finished Good": "Electric Motorcycle Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501467,
+        "Raw Materials": "Copper Wire",
+        "Quantity": "0.3 kg"
+    },
+    {
+        "FG Part No.": 801947,
+        "Finished Good": "Electric Drill Battery",
+        "Battery Type": "Nickel Cadmium (NiCd)",
+        "Raw Material Part Number": 503421,
+        "Raw Materials": "NiCd Cells",
+        "Quantity": "35 cells"
+    },
+    {
+        "FG Part No.": 801947,
+        "Finished Good": "Electric Drill Battery",
+        "Battery Type": "Nickel Cadmium (NiCd)",
+        "Raw Material Part Number": 503129,
+        "Raw Materials": "Steel Casing",
+        "Quantity": "3 kg"
+    },
+    {
+        "FG Part No.": 801947,
+        "Finished Good": "Electric Drill Battery",
+        "Battery Type": "Nickel Cadmium (NiCd)",
+        "Raw Material Part Number": 507423,
+        "Raw Materials": "Aluminum Cathode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 801947,
+        "Finished Good": "Electric Drill Battery",
+        "Battery Type": "Nickel Cadmium (NiCd)",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 801947,
+        "Finished Good": "Electric Drill Battery",
+        "Battery Type": "Nickel Cadmium (NiCd)",
+        "Raw Material Part Number": 502189,
+        "Raw Materials": "Nickel Connector",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 802563,
+        "Finished Good": "Electric Guitar Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "15 cells"
+    },
+    {
+        "FG Part No.": 802563,
+        "Finished Good": "Electric Guitar Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 505921,
+        "Raw Materials": "Sulfuric Acid",
+        "Quantity": "2 liters"
+    },
+    {
+        "FG Part No.": 802563,
+        "Finished Good": "Electric Guitar Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 802563,
+        "Finished Good": "Electric Guitar Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504687,
+        "Raw Materials": "Electrolyte Solution",
+        "Quantity": "1 liter"
+    },
+    {
+        "FG Part No.": 802563,
+        "Finished Good": "Electric Guitar Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 507821,
+        "Raw Materials": "Copper Connectors",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 802985,
+        "Finished Good": "Electric Boat Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "40 cells"
+    },
+    {
+        "FG Part No.": 802985,
+        "Finished Good": "Electric Boat Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509234,
+        "Raw Materials": "Aluminum Casing",
+        "Quantity": "4 kg"
+    },
+    {
+        "FG Part No.": 802985,
+        "Finished Good": "Electric Boat Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508721,
+        "Raw Materials": "Nickel Cathode",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 802985,
+        "Finished Good": "Electric Boat Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "0.8 kg"
+    },
+    {
+        "FG Part No.": 802985,
+        "Finished Good": "Electric Boat Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.2 kg"
+    },
+    {
+        "FG Part No.": 803490,
+        "Finished Good": "Electric Bicycle Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 506759,
+        "Raw Materials": "LiFePO4 Cells",
+        "Quantity": "25 cells"
+    },
+    {
+        "FG Part No.": 803490,
+        "Finished Good": "Electric Bicycle Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 509234,
+        "Raw Materials": "Aluminum Casing",
+        "Quantity": "8 kg"
+    },
+    {
+        "FG Part No.": 803490,
+        "Finished Good": "Electric Bicycle Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "3 kg"
+    },
+    {
+        "FG Part No.": 803490,
+        "Finished Good": "Electric Bicycle Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 803490,
+        "Finished Good": "Electric Bicycle Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 803761,
+        "Finished Good": "Portable Generator Battery",
+        "Battery Type": "Lead Acid",
+        "Raw Material Part Number": 503854,
+        "Raw Materials": "Lead Plates",
+        "Quantity": "5 kg"
+    },
+    {
+        "FG Part No.": 803761,
+        "Finished Good": "Portable Generator Battery",
+        "Battery Type": "Lead Acid",
+        "Raw Material Part Number": 503412,
+        "Raw Materials": "Fiberglass Casing",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 803761,
+        "Finished Good": "Portable Generator Battery",
+        "Battery Type": "Lead Acid",
+        "Raw Material Part Number": 502134,
+        "Raw Materials": "PCB",
+        "Quantity": 3
+    },
+    {
+        "FG Part No.": 803761,
+        "Finished Good": "Portable Generator Battery",
+        "Battery Type": "Lead Acid",
+        "Raw Material Part Number": 501467,
+        "Raw Materials": "Copper Wire",
+        "Quantity": "0.4 kg"
+    },
+    {
+        "FG Part No.": 803761,
+        "Finished Good": "Portable Generator Battery",
+        "Battery Type": "Lead Acid",
+        "Raw Material Part Number": 508746,
+        "Raw Materials": "Aluminum Heat Sink",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 804289,
+        "Finished Good": "Drone Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 507843,
+        "Raw Materials": "Lithium Polymer Cells",
+        "Quantity": "15 cells"
+    },
+    {
+        "FG Part No.": 804289,
+        "Finished Good": "Drone Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 505921,
+        "Raw Materials": "Sulfuric Acid",
+        "Quantity": "2.5 liters"
+    },
+    {
+        "FG Part No.": 804289,
+        "Finished Good": "Drone Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 804289,
+        "Finished Good": "Drone Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 504687,
+        "Raw Materials": "Electrolyte Solution",
+        "Quantity": "1.2 liters"
+    },
+    {
+        "FG Part No.": 804289,
+        "Finished Good": "Drone Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 507821,
+        "Raw Materials": "Copper Connectors",
+        "Quantity": "0.6 kg"
+    },
+    {
+        "FG Part No.": 804567,
+        "Finished Good": "Electric Mixer Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "25 cells"
+    },
+    {
+        "FG Part No.": 804567,
+        "Finished Good": "Electric Mixer Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 804567,
+        "Finished Good": "Electric Mixer Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 502134,
+        "Raw Materials": "PCB",
+        "Quantity": 2
+    },
+    {
+        "FG Part No.": 804567,
+        "Finished Good": "Electric Mixer Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501467,
+        "Raw Materials": "Copper Wire",
+        "Quantity": "0.3 kg"
+    },
+    {
+        "FG Part No.": 804567,
+        "Finished Good": "Electric Mixer Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508746,
+        "Raw Materials": "Aluminum Heat Sink",
+        "Quantity": "0.8 kg"
+    },
+    {
+        "FG Part No.": 805198,
+        "Finished Good": "Electric Car Battery Pack",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "50 cells"
+    },
+    {
+        "FG Part No.": 805198,
+        "Finished Good": "Electric Car Battery Pack",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 805198,
+        "Finished Good": "Electric Car Battery Pack",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508721,
+        "Raw Materials": "Nickel Cathode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 805198,
+        "Finished Good": "Electric Car Battery Pack",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 506731,
+        "Raw Materials": "Hydrogen Absorbent Alloy",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 805198,
+        "Finished Good": "Electric Car Battery Pack",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 507821,
+        "Raw Materials": "Copper Connectors",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 805234,
+        "Finished Good": "Electric Skateboard Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 507843,
+        "Raw Materials": "Lithium Polymer Cells",
+        "Quantity": "20 cells"
+    },
+    {
+        "FG Part No.": 805234,
+        "Finished Good": "Electric Skateboard Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 805234,
+        "Finished Good": "Electric Skateboard Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 509638,
+        "Raw Materials": "NCM Cathode",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 805234,
+        "Finished Good": "Electric Skateboard Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 805234,
+        "Finished Good": "Electric Skateboard Battery",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.2 kg"
+    },
+    {
+        "FG Part No.": 806123,
+        "Finished Good": "Electric Lawn Mower Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "25 cells"
+    },
+    {
+        "FG Part No.": 806123,
+        "Finished Good": "Electric Lawn Mower Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503129,
+        "Raw Materials": "Steel Casing",
+        "Quantity": "5 kg"
+    },
+    {
+        "FG Part No.": 806123,
+        "Finished Good": "Electric Lawn Mower Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "2.5 kg"
+    },
+    {
+        "FG Part No.": 806123,
+        "Finished Good": "Electric Lawn Mower Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 806123,
+        "Finished Good": "Electric Lawn Mower Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.8 kg"
+    },
+    {
+        "FG Part No.": 806754,
+        "Finished Good": "Uninterruptible Power Supply (UPS) Battery",
+        "Battery Type": "Sealed Lead Acid",
+        "Raw Material Part Number": 503854,
+        "Raw Materials": "Lead Plates",
+        "Quantity": "6 kg"
+    },
+    {
+        "FG Part No.": 806754,
+        "Finished Good": "Uninterruptible Power Supply (UPS) Battery",
+        "Battery Type": "Sealed Lead Acid",
+        "Raw Material Part Number": 503129,
+        "Raw Materials": "Steel Casing",
+        "Quantity": "3 kg"
+    },
+    {
+        "FG Part No.": 806754,
+        "Finished Good": "Uninterruptible Power Supply (UPS) Battery",
+        "Battery Type": "Sealed Lead Acid",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 806754,
+        "Finished Good": "Uninterruptible Power Supply (UPS) Battery",
+        "Battery Type": "Sealed Lead Acid",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 806754,
+        "Finished Good": "Uninterruptible Power Supply (UPS) Battery",
+        "Battery Type": "Sealed Lead Acid",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 807543,
+        "Finished Good": "Solar Power Storage Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 506759,
+        "Raw Materials": "LiFePO4 Cells",
+        "Quantity": "30 cells"
+    },
+    {
+        "FG Part No.": 807543,
+        "Finished Good": "Solar Power Storage Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 807543,
+        "Finished Good": "Solar Power Storage Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 508721,
+        "Raw Materials": "Nickel Cathode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 807543,
+        "Finished Good": "Solar Power Storage Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 504965,
+        "Raw Materials": "Cadmium Anode",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 807543,
+        "Finished Good": "Solar Power Storage Battery",
+        "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+        "Raw Material Part Number": 507821,
+        "Raw Materials": "Copper Connectors",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 807912,
+        "Finished Good": "Power Bank",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 507843,
+        "Raw Materials": "Lithium Polymer Cells",
+        "Quantity": "15 cells"
+    },
+    {
+        "FG Part No.": 807912,
+        "Finished Good": "Power Bank",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 807912,
+        "Finished Good": "Power Bank",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "0.8 kg"
+    },
+    {
+        "FG Part No.": 807912,
+        "Finished Good": "Power Bank",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 807912,
+        "Finished Good": "Power Bank",
+        "Battery Type": "Lithium Polymer",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "0.7 kg"
+    },
+    {
+        "FG Part No.": 808321,
+        "Finished Good": "Electric Fan Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "20 cells"
+    },
+    {
+        "FG Part No.": 808321,
+        "Finished Good": "Electric Fan Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503129,
+        "Raw Materials": "Steel Casing",
+        "Quantity": "7 kg"
+    },
+    {
+        "FG Part No.": 808321,
+        "Finished Good": "Electric Fan Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "4 kg"
+    },
+    {
+        "FG Part No.": 808321,
+        "Finished Good": "Electric Fan Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 808321,
+        "Finished Good": "Electric Fan Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "2.5 kg"
+    },
+    {
+        "FG Part No.": 808765,
+        "Finished Good": "Electric Heater Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "30 cells"
+    },
+    {
+        "FG Part No.": 808765,
+        "Finished Good": "Electric Heater Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503129,
+        "Raw Materials": "Steel Casing",
+        "Quantity": "4 kg"
+    },
+    {
+        "FG Part No.": 808765,
+        "Finished Good": "Electric Heater Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "2.5 kg"
+    },
+    {
+        "FG Part No.": 808765,
+        "Finished Good": "Electric Heater Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1.2 kg"
+    },
+    {
+        "FG Part No.": 808765,
+        "Finished Good": "Electric Heater Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.8 kg"
+    },
+    {
+        "FG Part No.": 809365,
+        "Finished Good": "Electric Wheelchair Battery",
+        "Battery Type": "Nickel Metal Hydride (NiMH)",
+        "Raw Material Part Number": 501953,
+        "Raw Materials": "NiMH Cells",
+        "Quantity": "40 cells"
+    },
+    {
+        "FG Part No.": 809365,
+        "Finished Good": "Electric Wheelchair Battery",
+        "Battery Type": "Nickel Metal Hydride (NiMH)",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 809365,
+        "Finished Good": "Electric Wheelchair Battery",
+        "Battery Type": "Nickel Metal Hydride (NiMH)",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 809365,
+        "Finished Good": "Electric Wheelchair Battery",
+        "Battery Type": "Nickel Metal Hydride (NiMH)",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "0.5 kg"
+    },
+    {
+        "FG Part No.": 809365,
+        "Finished Good": "Electric Wheelchair Battery",
+        "Battery Type": "Nickel Metal Hydride (NiMH)",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "0.8 kg"
+    },
+    {
+        "FG Part No.": 809874,
+        "Finished Good": "Electric Oven Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 503812,
+        "Raw Materials": "Lithium-ion Cells",
+        "Quantity": "35 cells"
+    },
+    {
+        "FG Part No.": 809874,
+        "Finished Good": "Electric Oven Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 501298,
+        "Raw Materials": "Plastic Casing",
+        "Quantity": "2 kg"
+    },
+    {
+        "FG Part No.": 809874,
+        "Finished Good": "Electric Oven Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 509127,
+        "Raw Materials": "NCA Cathode",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "FG Part No.": 809874,
+        "Finished Good": "Electric Oven Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 508765,
+        "Raw Materials": "Graphite Anode",
+        "Quantity": "1 kg"
+    },
+    {
+        "FG Part No.": 809874,
+        "Finished Good": "Electric Oven Battery",
+        "Battery Type": "Lithium-ion",
+        "Raw Material Part Number": 504367,
+        "Raw Materials": "Copper Foil",
+        "Quantity": "1.2 kg"
+    }
+]

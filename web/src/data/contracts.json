@@ -1,0 +1,292 @@
+[
+    {
+        "id": 5241,
+        "type": "Sales",
+        "signedDate": "2024-12-01T00:00:00.000",
+        "onboardedOn": "2024-02-20T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2026-12-01T00:00:00.000",
+        "customer": "Gizmo Electronics",
+        "seller": "Battery Manufacturing Inc.",
+        "materials": [
+            {
+                "id": 807912,
+                "totalQuantity": 500,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 805234,
+                "totalQuantity": 400,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 100,
+        "shipmentAddress": "100 Consumer Rd, Retail City, Shoppington, 23456, USA",
+        "invoiceAddress": "100 Consumer Rd, Retail City, Shoppington, 23456, USA"
+    },
+    {
+        "id": 5242,
+        "type": "Sales",
+        "signedDate": "2023-02-20T00:00:00.000",
+        "onboardedOn": "2023-10-02T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-02-20T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "New Electronics Inc.",
+        "materials": [
+            {
+                "id": 801236,
+                "totalQuantity": 450,
+                "perOrderQuantity": 8,
+                "minOrderQuantity": 4,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 802985,
+                "totalQuantity": 350,
+                "perOrderQuantity": 12,
+                "minOrderQuantity": 8,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 98,
+        "shipmentAddress": "500 Main St, Tech Hub, Innoville, 54321, USA",
+        "invoiceAddress": "500 Main St, Tech Hub, Innoville, 54321, USA"
+    },
+    {
+        "id": 5243,
+        "type": "Sales",
+        "signedDate": "2022-05-03T00:00:00.000",
+        "onboardedOn": "2022-04-15T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-05-03T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "Bright Ideas Corp.",
+        "materials": [
+            {
+                "id": 803490,
+                "totalQuantity": 600,
+                "perOrderQuantity": 12,
+                "minOrderQuantity": 6,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 803761,
+                "totalQuantity": 300,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 99,
+        "shipmentAddress": "200 Energy Blvd, Innovation Center, Powerstate, 34567, USA",
+        "invoiceAddress": "200 Energy Blvd, Innovation Center, Powerstate, 34567, USA"
+    },
+    {
+        "id": 5244,
+        "type": "Sales",
+        "signedDate": "2022-03-15T00:00:00.000",
+        "onboardedOn": "2022-04-25T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-03-15T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "Volt Solutions Inc.",
+        "materials": [
+            {
+                "id": 803761,
+                "totalQuantity": 550,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 802985,
+                "totalQuantity": 400,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 97,
+        "shipmentAddress": "300 Power Ave, Energy Village, Electroncity, 78901, USA",
+        "invoiceAddress": "300 Power Ave, Energy Village, Electroncity, 78901, USA"
+    },
+    {
+        "id": 5245,
+        "type": "Sales",
+        "signedDate": "2023-03-25T00:00:00.000",
+        "onboardedOn": "2023-05-05T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-03-25T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "Green Tech Corp.",
+        "materials": [
+            {
+                "id": 805179,
+                "totalQuantity": 500,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 805263,
+                "totalQuantity": 400,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 96,
+        "shipmentAddress": "400 Electric Dr, Power Plaza, Ampcity, 23456, USA",
+        "invoiceAddress": "400 Electric Dr, Power Plaza, Ampcity, 23456, USA"
+    },
+    {
+        "id": 5246,
+        "type": "Sales",
+        "signedDate": "2023-10-04T00:00:00.000",
+        "onboardedOn": "2023-05-20T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2026-10-04T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "Energy Systems Ltd.",
+        "materials": [
+            {
+                "id": 806743,
+                "totalQuantity": 400,
+                "perOrderQuantity": 12,
+                "minOrderQuantity": 6,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 807965,
+                "totalQuantity": 350,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 98,
+        "shipmentAddress": "300 Battery Blvd, Energy Park, Powercity, 34567, USA",
+        "invoiceAddress": "300 Battery Blvd, Energy Park, Powercity, 34567, USA"
+    },
+    {
+        "id": 5247,
+        "type": "Sales",
+        "signedDate": "2022-04-20T00:00:00.000",
+        "onboardedOn": "2022-05-30T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-04-20T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "ElectroTech Inc.",
+        "materials": [
+            {
+                "id": 804256,
+                "totalQuantity": 600,
+                "perOrderQuantity": 12,
+                "minOrderQuantity": 6,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 804295,
+                "totalQuantity": 350,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 97,
+        "shipmentAddress": "200 Power Dr, Volt Center, Electropolis, 45678, USA",
+        "invoiceAddress": "200 Power Dr, Volt Center, Electropolis, 45678, USA"
+    },
+    {
+        "id": 5248,
+        "type": "Sales",
+        "signedDate": "2023-05-05T00:00:00.000",
+        "onboardedOn": "2023-06-15T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2026-05-05T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "PowerTech Solutions",
+        "materials": [
+            {
+                "id": 806123,
+                "totalQuantity": 750,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 802985,
+                "totalQuantity": 400,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 96,
+        "shipmentAddress": "400 Battery Ave, Power District, Cellville, 56789, USA",
+        "invoiceAddress": "400 Battery Ave, Power District, Cellville, 56789, USA"
+    },
+    {
+        "id": 5249,
+        "type": "Sales",
+        "signedDate": "2022-05-15T00:00:00.000",
+        "onboardedOn": "2022-06-25T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2025-05-15T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "Current Tech Inc.",
+        "materials": [
+            {
+                "id": 802523,
+                "totalQuantity": 500,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 802985,
+                "totalQuantity": 400,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 97,
+        "shipmentAddress": "300 Current Ave, Energy Zone, Powerville, 67890, USA",
+        "invoiceAddress": "300 Current Ave, Energy Zone, Powerville, 67890, USA"
+    },
+    {
+        "id": 5250,
+        "type": "Sales",
+        "signedDate": "2023-05-25T00:00:00.000",
+        "onboardedOn": "2023-05-07T00:00:00.000",
+        "validTill": 2,
+        "expiryDate": "2026-05-25T00:00:00.000",
+        "seller": "Battery Manufacturing Inc.",
+        "customer": "PowerCell Inc.",
+        "materials": [
+            {
+                "id": 803751,
+                "totalQuantity": 750,
+                "perOrderQuantity": 15,
+                "minOrderQuantity": 10,
+                "frequency": "Weekly"
+            },
+            {
+                "id": 802985,
+                "totalQuantity": 400,
+                "perOrderQuantity": 10,
+                "minOrderQuantity": 5,
+                "frequency": "Weekly"
+            }
+        ],
+        "penaltyThreshold": 95,
+        "shipmentAddress": "500 Battery Rd, Power Land, Currentcity, 23456, USA",
+        "invoiceAddress": "500 Battery Rd, Power Land, Currentcity, 23456, USA"
+    }
+]
